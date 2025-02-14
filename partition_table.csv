@@ -1,0 +1,6 @@
+# Nome           Tamanho    Tipo        Subtipo   Offset
+nvs,            0x6000,    data,       nvs,      0x9000
+otadata,        0x2000,    data,       otadata,  0xf000
+app0,           0x100000,  app,        ota_0,    0x110000
+app1,           0x100000,  app,        ota_1,    0x210000
+
